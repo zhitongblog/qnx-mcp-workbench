@@ -1,0 +1,8 @@
+[package]
+name = "qnx-mcp-workbench"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "AI-Native Host Diagnostic, Deterministic slog2 Triage & Action-Gated MCP Workbench for QNX SDP 8.0"
+
+[dependencies]
