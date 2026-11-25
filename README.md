@@ -1,6 +1,7 @@
 # qnx-mcp-workbench
 
 > **QNX Global Hackathon 2026 — Track 4 (Developer Tooling & Host Tools) + Best Codelab / Tutorial Candidate**
+> **1080p Live Demo Video**: https://youtu.be/LPhqSmhgacU
 
 An **AI-native, zero-dependency Rust host workbench, MCP server (`2024-11-05` & `2025-03-26`), and live telemetry dashboard** that connects AI coding agents (Claude Code, Cursor, Codex, Gemini CLI) safely to **QNX SDP 8.0** targets running in **QEMU** or on physical hardware (Raspberry Pi 5).
 
